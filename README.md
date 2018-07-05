@@ -5,4 +5,4 @@ Once upon a time, I had to figure out datum transformations using the Helmert tr
 
 Requires lodash (but you can easily enough substitute isEqual with something else)
 
-This example contains only WGS84 and NAD83 in datumStore.ts -- to use different projections, you would need to find their datum values and relevant ellipsoids on the web and add them yourself!
+This example contains only WGS84 and NAD83 in datumStore.ts -- to use different projections, you will need to find their datum values and relevant ellipsoids on the web and add them yourself!
